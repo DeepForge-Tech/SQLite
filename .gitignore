@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+ZERO_CHECK.vcxproj.filters
+ZERO_CHECK.vcxproj
+SQLite.vcxproj.filters
+SQLite.vcxproj
+SQLite.sln
+CMakeCache.txt
+cmake_install.cmake
+ALL_BUILD.vcxproj.filters
+ALL_BUILD.vcxproj
+x64/
+SQLite.dir/
+Debug/
+CMakeFiles/
