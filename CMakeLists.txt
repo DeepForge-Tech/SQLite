@@ -1,5 +1,4 @@
 cmake_minimum_required (VERSION 3.21)
-set(SQLITE_THREADSAFE 1)
 project(SQLite)
  
 set(SOURCE_FILES 
