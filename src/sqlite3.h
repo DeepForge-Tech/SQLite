@@ -10786,9 +10786,7 @@ SQLITE_API int sqlite3_deserialize(
 # ifndef SQLITE_OMIT_LOAD_EXTENSION
 #  define SQLITE_OMIT_LOAD_EXTENSION
 # endif
-# ifndef SQLITE_THREADSAFE
-#  define SQLITE_THREADSAFE 0
-# endif
+#define SQLITE_THREADSAFE 1
 #endif
 
 #ifdef __cplusplus
