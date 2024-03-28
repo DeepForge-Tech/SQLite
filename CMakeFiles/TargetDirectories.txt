@@ -1,3 +1,0 @@
-D:/DeepForge/InstallerDeepForge-Toolset/sqlite/CMakeFiles/SQLite.dir
-D:/DeepForge/InstallerDeepForge-Toolset/sqlite/CMakeFiles/ALL_BUILD.dir
-D:/DeepForge/InstallerDeepForge-Toolset/sqlite/CMakeFiles/ZERO_CHECK.dir
