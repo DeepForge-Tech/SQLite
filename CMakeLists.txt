@@ -14,6 +14,6 @@ set(HEADER_FILES
 # And also we specify dependence on static library
 add_library(SQLite STATIC ${HEADER_FILES} ${SOURCE_FILES})
 target_link_libraries(SQLite PRIVATE Threads::Threads)
-if (BUILD_EXAMPLES)
-add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/examples/Connect)
-endif()
+#if (BUILD_EXAMPLES)
+#add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/examples/Connect)
+#endif()
